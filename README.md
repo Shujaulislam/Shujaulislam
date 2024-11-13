@@ -8,9 +8,10 @@ A passionate Frontend Developer with expertise in JavaScript, React.js, TypeScri
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [shujaulisla@gmail.com](mailto:shujaulisla@gmail.com)
-* 🚀  I'm currently working on [food-app](http://github.com/Shujaulislam/food-odering-app)
+<!--* 🚀  I'm currently working on [food-app](http://github.com/Shujaulislam/food-odering-app) -->
+* 🚀  I'm currently working on [Next.js-blog](https://github.com/Shujaulislam/nextjs-blog.FS)
 * 🧠  I'm learning Next.js, Remix.js and DSA
-* 🤝  I'm open to collaborating on Full stack projects in web dev and would love to explore react-native
+<!-- * 🤝  I'm open to collaborating on Full stack projects in web dev and would love to explore react-native -->
 * ⚡  A casual amateur footballer on weekends and always busy exploring new tech
 
 ### Skills
