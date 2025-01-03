@@ -1,18 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shuja Ul Islam
-======================================================================================================================================
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif?raw=true" alt="waving hand" height-"30" width="30"/>My name is Shuja Ul Islam</h1>
+<h3 align="center"> "Software Engineer | Frontend Developer " </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=achiit&label=Profile%20views&color=0e75b6&style=flat" alt="shuja" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHUJA&label=Profile%20views&color=0e75b6&style=flat" alt="shuja" /> </p> -->
 
-"Frontend Developer transitioning to Full Stack"
-------------------------------------------------
+I am a software engineer passionate about frontend development and creating seamless user experiences. With expertise in JavaScript, React.js, TypeScript, HTML, CSS, and Tailwind CSS, I have developed dynamic user interfaces, responsive designs, and feature-rich applications. Some of my notable projects include micro-products like Kanban boards, advanced to-do apps, and CRUD applications with elegant and intuitive UIs (e.g., two blog apps I built). Currently, I’m expanding my expertise in web security, software engineering principles, large language models (LLMs), and cybersecurity. I thrive on solving complex challenges—whether it’s optimizing workflows, enhancing user experiences, or addressing gaps where traditional industry solutions fall short. By blending technical skills with a problem-solving mindset, I aim to build innovative, scalable solutions that make a meaningful impact, whether in the form of streamlined web applications or secure digital environments.
 
-A passionate Frontend Developer with expertise in JavaScript, React.js, TypeScript, HTML, CSS, and Tailwind CSS. I have built dynamic user interfaces and responsive designs, and I’m currently expanding my knowledge in web security, software engineering, LLM's, and cybersecurity. I’m always looking for new opportunities to enhance user experience and secure digital environments.
+<!--I am a software engineer with a focus on frontend development and delivering exceptional user experiences. Proficient in JavaScript, React.js, TypeScript, HTML, CSS, and Tailwind CSS, I have designed and implemented dynamic interfaces, responsive designs, and high-performing applications. My portfolio includes building micro-products such as Kanban boards, advanced task management tools, and CRUD applications, each tailored to optimize functionality and usability.
 
-* 🌍  I'm based in New Delhi
+Beyond technical delivery, I am dedicated to addressing complex challenges at the intersection of technology, design, and business impact. I am currently deepening my expertise in software engineering best practices, web security, large language models (LLMs), and cybersecurity. By combining technical proficiency with a problem-solving mindset, I aim to develop scalable solutions that drive operational efficiency, enhance user engagement, and create measurable value in secure digital environments. -->
+
+* 🌍  I'm based in New Delhi, India.
 * ✉️  You can contact me at [shujaulisla@gmail.com](mailto:shujaulisla@gmail.com)
 * 🚀  I'm currently working on [Modern-blog App](https://github.com/Shujaulislam/modern-blog)
-* 🧠  I'm learning Next.js, Remix.js and DSA
+* 🧠  Learning Next.js.
 * ⚡  A casual amateur footballer on weekends and always busy exploring new tech
 * 🤝  I'm open to collaborating on Full stack projects and would love to explore react-native
 <!--* 🚀  I'm currently working on [food-app](http://github.com/Shujaulislam/food-odering-app) -->
+
+
+<h3 align="left">✍️ Quote Of The Day</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### Skills
 
