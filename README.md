@@ -63,11 +63,11 @@ Beyond technical delivery, I am dedicated to addressing complex challenges at th
 ## 📊 GitHub Stats:
 ### Badges
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shujaulislam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 <!--![](https://github-readme-stats.vercel.app/api?username=Shujaulislam&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-###⚡Stats
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shujaulislam&theme=gotham&hide_border=false)
 
