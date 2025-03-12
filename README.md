@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif?raw=true" alt="waving hand" height-"30" width="30"/>My name is Shuja Ul Islam</h1>
 <h3 align="center"> "Software Engineer | Frontend Developer " </h3>
-<h4 align="center"> "🌍  I'm based in New Delhi, India." </h4>
+<h4 align="center"> "🌍 New Delhi, India." </h4>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=achiit&label=Profile%20views&color=0e75b6&style=flat" alt="shuja" /> </p>-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHUJA&label=Profile%20views&color=0e75b6&style=flat" alt="shuja" /> </p> -->
