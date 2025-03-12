@@ -68,7 +68,8 @@ Beyond technical delivery, I am dedicated to addressing complex challenges at th
 </div>
 <!--![](https://github-readme-stats.vercel.app/api?username=Shujaulislam&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ### Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shujaulislam&theme=gotham&hide_border=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shujaulislam&theme=gotham&hide_border=false)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achiit&show_icons=true&locale=en" alt="achiit" /></p> -->
 ![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
