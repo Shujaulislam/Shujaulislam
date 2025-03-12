@@ -69,6 +69,11 @@ Beyond technical delivery, I am dedicated to addressing complex challenges at th
 <!--![](https://github-readme-stats.vercel.app/api?username=Shujaulislam&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 ### Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shujaulislam&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shujaulislam&theme=gotham&hide_border=false)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achiit&show_icons=true&locale=en" alt="achiit" /></p> -->
