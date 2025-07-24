@@ -14,13 +14,14 @@ I am a software engineer with a focus on Web Engineering & Frontend development 
 
 Beyond technical delivery, I am dedicated to addressing complex challenges at the intersection of technology, design, and business impact. I am currently deepening my expertise in software engineering best practices, web security, large language models (LLMs), and cybersecurity. By combining technical proficiency with a problem-solving mindset, I aim to develop scalable solutions that drive operational efficiency, enhance user engagement, and create measurable value in secure digital environments.-->
 
-<!--* 🌍  I'm based in New Delhi, India.-->
-<!--* ✉️  You can contact me at [shujaulisla@gmail.com](mailto:shujaulisla@gmail.com)-->
-* 🚀  I'm currently working on [Modern-blog App](https://github.com/Shujaulislam/modern-blog)
-* 🧠  Learning Modern Front-end development.
-* ⚡  Fun Fact: Casual footballer on weekends & always up for a challenge!
-* 🤝  I'm open to collaborating on Full stack projects and would love to collaborate on react-native
-<!--* 🚀  I'm currently working on [food-app](http://github.com/Shujaulislam/food-odering-app) -->
+<!--*   I'm based in New Delhi, India.-->
+<!--* ✉  You can contact me at [shujaulisla@gmail.com](mailto:shujaulisla@gmail.com)-->
+*   I'm currently working on [Modern-blog App](https://github.com/Shujaulislam/modern-blog)
+*   Learning Modern Front-end development.
+<!--*   Fun Fact: Casual footballer on weekends & always up for a challenge! -->
+*   Fun Fact: This is github you did not came here to read fun fact about me.
+*   Ping me for Full stack projects collabs and would love to work on react-native.
+<!--*  I'm currently working on [food-app](http://github.com/Shujaulislam/food-odering-app) -->
 
 <!-- ## Skills
 
