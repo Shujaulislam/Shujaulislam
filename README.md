@@ -16,7 +16,8 @@ Beyond technical delivery, I am dedicated to addressing complex challenges at th
 
 <!--*   I'm based in New Delhi, India.-->
 <!--* ✉  You can contact me at [shujaulisla@gmail.com](mailto:shujaulisla@gmail.com)-->
-*   I'm currently working on [Modern-blog App](https://github.com/Shujaulislam/modern-blog)
+<!--*   I'm currently working on [Modern-blog App](https://github.com/Shujaulislam/modern-blog)-->
+*   Presently learning and expanding knowledge in backend developement specially NEST.js.
 *   Learning Modern Front-end development.
 *   Fun Fact: This is github you did not came here to read fun fact about me.
 *   Ping me for Full stack projects collabs and would love to work on react-native.
