@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif?raw=true" alt="waving hand" height-"30" width="30"/>Hey!there! I'm Shuja Ul Islam</h1>
-<h3 align="center"> "Software Engineer | Frontend Developer " </h3>
+<h3 align="center"> "Software Engineer " </h3>
 <h4 align="center"> 🌍 New Delhi, India. </h4>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=achiit&label=Profile%20views&color=0e75b6&style=flat" alt="shuja" /> </p>-->
@@ -17,10 +17,10 @@ Beyond technical delivery, I am dedicated to addressing complex challenges at th
 <!--*   I'm based in New Delhi, India.-->
 <!--* ✉  You can contact me at [shujaulisla@gmail.com](mailto:shujaulisla@gmail.com)-->
 <!--*   I'm currently working on [Modern-blog App](https://github.com/Shujaulislam/modern-blog)-->
-*   Presently learning and expanding knowledge in backend developement specially NEST.js.
+*   Presently learning and expanding knowledge in backend developement .
 *   Learning Modern Front-end development.
 *   Fun Fact: This is github you did not came here to read fun fact about me.
-*   Ping me for Full stack projects collabs and would love to work on react-native.
+*   Ping me for Full stack projects collabs.
 <!--*   Fun Fact: Casual footballer on weekends & always up for a challenge! -->
 <!--*  I'm currently working on [food-app](http://github.com/Shujaulislam/food-odering-app) -->
 
